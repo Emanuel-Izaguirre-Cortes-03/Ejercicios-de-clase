@@ -1,0 +1,3 @@
+001 , coca cola , 16,20
+002 , pepsi cola ,16,20
+003, leche alpura,30,20
